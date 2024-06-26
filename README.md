@@ -1,7 +1,9 @@
 # cronometroWear
 
-![image](https://github.com/IrvanBola/App-cronometro/assets/122304883/90543f4d-ebfe-4c36-8c5e-ba92d9e096d5)
-![image](https://github.com/IrvanBola/App-cronometro/assets/122304883/bf8eb0dd-b0c9-440b-8bff-ba53a6c38265)
+![image](https://github.com/IrvanBola/App-cronometro/assets/122304883/4dd7c62c-6f97-4035-9bee-f5ae97e9540d)
+
+![image](https://github.com/IrvanBola/App-cronometro/assets/122304883/3616f5ec-ddc3-40c8-9343-d2e605fec5c3)
+
 
 Descripción:
 Se trata de una aplicación de cronómetro desarrollada en Flutter, diseñada para funcionar en dispositivos portátiles como smartwatches.
