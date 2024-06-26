@@ -1,7 +1,8 @@
 # cronometroWear
 
-![image](https://github.com/IrvanBola/App-cronometro/assets/122304883/0a99d853-a9ac-4c18-bf70-d5b49c595b74)
-![image](https://github.com/IrvanBola/App-cronometro/assets/122304883/5c98ff0b-b631-4371-b683-d5ece0d13552)
+![image](https://github.com/IrvanBola/App-cronometro/assets/122304883/95fcbfd3-9b5e-4e8b-9119-46900d4b20cd)
+![image](https://github.com/IrvanBola/App-cronometro/assets/122304883/7c0cded0-131c-421e-8130-cc0170d940b4)
+
 
 Descripción:
 
