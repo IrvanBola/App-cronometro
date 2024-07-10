@@ -1,4 +1,4 @@
-# cronometroWear
+# CronometroWear
 
 
 ## Descripción
